@@ -65,7 +65,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:your-email@example.com)
+Your Name - [Your Email](mailto:mehta.prey@northeastern.edu)
 
 Project Link: [https://github.com/Preyash-NEU/CollegeAttendanceApp](https://github.com/Preyash-NEU/CollegeAttendanceApp)
 
